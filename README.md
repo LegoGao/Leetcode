@@ -1,2 +1,8 @@
-Not another leetcode solution, but another excellent learning notes
+Not another leetcode solutions, but another excellent learning notes
 ---
+<br>
+
+By Category
+---
+* [Tree](www.youtube.com)
+* [DFS]()
