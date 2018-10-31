@@ -13,4 +13,5 @@ By Category
 
 
 | \# | Problems | Tag | Note |
-|001|[001.Two_Sum](https://leetcode.com/problems/Two-Sum/)|TwoPointer|[Notes](./solutions/001.Two_Sum)|
+|----|----------|-----------|------|
+| 001 | [001.Two_Sum](https://leetcode.com/problems/Two-Sum/) | TwoPointer | [Notes](./solutions/001.Two_Sum) |
